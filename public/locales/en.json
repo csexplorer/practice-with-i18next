@@ -1,0 +1,7 @@
+{
+  "common": {
+    "current_date": "The current date is {{value, MM/DD/YYYY}}",
+    "key2": "{{text, uppercase}} just uppercased"
+  },
+  "field": {}
+}
